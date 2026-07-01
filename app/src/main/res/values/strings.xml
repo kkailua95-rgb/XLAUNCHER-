@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XL Launcher</string>
+    <string name="app_tagline">The Smartest Minecraft Java Launcher For Android</string>
+    <string name="play_button">PLAY</string>
+    <string name="continue_playing">Continue Playing</string>
+    <string name="profiles">Profiles</string>
+    <string name="mods">Mods</string>
+    <string name="settings">Settings</string>
+    <string name="store">Store</string>
+    <string name="worlds">Worlds</string>
+    <string name="assistant">Assistant</string>
+    <string name="version">Version</string>
+    <string name="launching_game">Launching Game...</string>
+    <string name="loading">Loading...</string>
+</resources>
