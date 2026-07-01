@@ -1,0 +1,51 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+*.DS_Store
+
+# Android Studio generated files
+.idea/
+.classpath
+.c9/
+*.class
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.cproject
+.launch
+.metadata
+.settings/
+bin/
+local.properties
+.project
+.pydevproject
+.svn/
+.vscode/
+.project
+.classpath
+local.properties
+.gradle/
+.idea/
+build/
+
+# Misc
+.DS_Store
+*.jks
+*.keystore
